@@ -195,10 +195,7 @@ input[type="submit"] {
     margin-top: 21px;
 }
 
-.apps p {
-    text-align: center;
-    
-}
+
 
 .image-apps {
     margin-top: 18px;
@@ -210,6 +207,15 @@ input[type="submit"] {
     height: 40px;
     
 }
+
+.apps p {
+    text-align: center;
+    width: 350px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: black;
+}
+
 .footer{
     width: 750px;
     height: 120px;
